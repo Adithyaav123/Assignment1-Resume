@@ -11,7 +11,7 @@ body{
     font-size: 14px;
     list-style: none;
     line-height: 22px;
-    color: #555555;
+    color: green;
 
 }
 .bold{
@@ -32,7 +32,7 @@ body{
 }
 .resume .resume_left{
     width: 280px;
-    background: #0bb5f4; 
+    background: firebrick; 
    
 }
 .resume .resume_left .resume_profile{
@@ -53,7 +53,7 @@ body{
     color: #fff;
 }
 .resume .resume_left .regular{
-    color: #555555;
+    color: green;
 }
 .resume .resume_item{
     padding: 25px 0;
@@ -68,10 +68,10 @@ body{
     margin-bottom: 10px;
 }
 .resume .resume_left ul li .data{
-    color: #555555;
+    color: green;
 }
 .resume .resume_left .resume_skills ul li{
-    color:#555555;
+    color:green;
     justify-content: space-between;
 }
 .resume .resume_left .resume_skills ul li .skill_name{
@@ -83,7 +83,7 @@ body{
     padding: 25px;
 }
 .resume .resume_right .bold{
-    color:  #0bb5f4;
+    color:  firebrick;
 }
 .resume .resume_right .resume_education ul,
 .resume .resume_right .resume_technical ul{
@@ -113,7 +113,7 @@ body{
     width: 6px;
     height: 6px;
     border-radius: 50%;
-    border: 2px solid  #0bb5f4;
+    border: 2px solid  firebrick;
 }
 .resume .resume_right .resume_technical ul li:before,
 .resume .resume_right .resume_projects ul:before{
@@ -124,5 +124,5 @@ body{
     width: 6px;
     height: 6px;
     border-radius: 50%;
-    border: 2px solid #0bb5f4;
+    border: 2px solid firebrick;
 }
